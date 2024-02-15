@@ -6,5 +6,7 @@ print(a+b)
 
 print("hello world")
 
+print("It's thursday")
+
 
 
